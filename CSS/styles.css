@@ -1,0 +1,17 @@
+body {
+  background-image: url(../images/canada.png);
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #e8e8e8;
+  border-width: 5px;
+  width: 30%;
+}
+h1 {
+  color: #393e46;
+}
+h3 {
+  color: #393e46;
+}
